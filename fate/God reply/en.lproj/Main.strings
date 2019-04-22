@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "年齢"; ObjectID = "0ZV-Qk-jgB"; */
+"0ZV-Qk-jgB.text" = "年齢";
+
+/* Class = "UINavigationItem"; title = "Select画面"; ObjectID = "7ua-Lx-nAW"; */
+"7ua-Lx-nAW.title" = "Select画面";
+
+/* Class = "UIButton"; normalTitle = "送信!"; ObjectID = "EEg-91-pHd"; */
+"EEg-91-pHd.normalTitle" = "送信!";
+
+/* Class = "UILabel"; text = "都道府県"; ObjectID = "KNY-MC-sLF"; */
+"KNY-MC-sLF.text" = "都道府県";
+
+/* Class = "UILabel"; text = "性別"; ObjectID = "Zak-M7-IE2"; */
+"Zak-M7-IE2.text" = "性別";
+
+/* Class = "UIButton"; normalTitle = "最初からやり直す"; ObjectID = "ewp-oN-V3M"; */
+"ewp-oN-V3M.normalTitle" = "最初からやり直す";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "gb5-Hh-Phq"; */
+"gb5-Hh-Phq.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "画像を選び直す"; ObjectID = "wCK-yw-bpk"; */
+"wCK-yw-bpk.normalTitle" = "画像を選び直す";
